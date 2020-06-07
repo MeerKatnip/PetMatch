@@ -1,11 +1,14 @@
 <p align="center">
 <img src="images/petMatchLogo.png">
 
-##### Purpose of the app: This app was created to simplify the process of locating a pet for your family from the Houston, TX area. There are many shelters and rescues in this city, and we have aggregated all of the cats and dogs in the Houston area available for adoption.
+#### Purpose of the app:
+This app was created to simplify the process of locating a pet for your family from the Houston, TX area. There are many shelters and rescues in this city, and we have aggregated all of the cats and dogs in the Houston area available for adoption.
 
-##### How to use: A user may view all available animals with or without creating an account. From the Home page, a user can navigate to either Dogs, Cats, or Both to display available animals. The user will then click on the photo of the desired animal, which will bring up the specific animal's details page. Pertinent information from the PetFinder database is displayed, including name, description, breed, age, gender, size, color, location and any special needs information.
+#### How to use:
+A user may view all available animals with or without creating an account. From the Home page, a user can navigate to either Dogs, Cats, or Both to display available animals. The user will then click on the photo of the desired animal, which will bring up the specific animal's details page. Pertinent information from the PetFinder database is displayed, including name, description, breed, age, gender, size, color, location and any special needs information.
 
-##### Features on the app: Utilizing the PetFinder API, both dogs and cats have a dedicated page displaying the 20 most recently-listed animals from local shelters. 
+#### Features on the app:
+Utilizing the PetFinder API, both dogs and cats have a dedicated page displaying the 20 most recently-listed animals from local shelters. 
   - A user can login and access their account on the site. 
   - An account can be made securely as the password information is stored on the server as a hash string with bcrypt.
   - A user can select Both to view the 20 most recently-listed cats and dogs in the Houston area together on one page.
